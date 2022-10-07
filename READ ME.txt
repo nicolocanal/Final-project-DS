@@ -1,0 +1,15 @@
+FILES DESCRIPTION
+
+1) Ambulance calls cleaning (Step 1): 
+
+In this file I started cleaning the ambulance calls dataset (that I renamed Den_Haag_calls). From this dataset I created four different 
+sub-dataframes for every year (2017,2018,2019,2020) that are called like Calls_'Year'. Knowing that we are going to exclude 2020 I did not 
+save this last dataframe. Hence, you can find three cleaned dataframes: Calls_2017, Calls_2018, Calls_2019
+
+2) Geo-visualisations (Step 1): 
+
+In this file I started looking into some geo-visualisations of our ambulance calls. In the end I tried to consider only the 
+calls that fall within the 'geographic boundaries' of Den Haag. 
+
+
+NOTE: All the code you will find is usually justified inside the notebooks. 
